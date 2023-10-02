@@ -1,0 +1,2 @@
+git push <nomduremote> master 
+git push <remote> <branche>
