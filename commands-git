@@ -1,2 +1,5 @@
 git push <nomduremote> master 
 git push <remote> <branche>
+git push --all <remote>
+git clone 
+git pull
